@@ -1,0 +1,15 @@
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.csproj.AssemblyReference.cache
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.AssemblyInfoInputs.cache
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.AssemblyInfo.cs
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.csproj.CoreCompileInputs.cache
+C:\Projets Github\Formation C-Sharp\MaFormation\bin\Debug\net7.0\MaFormation.exe
+C:\Projets Github\Formation C-Sharp\MaFormation\bin\Debug\net7.0\MaFormation.deps.json
+C:\Projets Github\Formation C-Sharp\MaFormation\bin\Debug\net7.0\MaFormation.runtimeconfig.json
+C:\Projets Github\Formation C-Sharp\MaFormation\bin\Debug\net7.0\MaFormation.dll
+C:\Projets Github\Formation C-Sharp\MaFormation\bin\Debug\net7.0\MaFormation.pdb
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.dll
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\refint\MaFormation.dll
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.pdb
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\MaFormation.genruntimeconfig.cache
+C:\Projets Github\Formation C-Sharp\MaFormation\obj\Debug\net7.0\ref\MaFormation.dll
