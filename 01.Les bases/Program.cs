@@ -252,6 +252,7 @@ tableauDeString[2] = "troisième";
 Console.WriteLine(tableauDeString[0]);
 string[] tableauDeString2 = new string[] { "premier", "deuxième", "troisième" };
 Console.WriteLine(tableauDeString2[0]);
+tableauDeString[0] = "nouveau premier"; // on peut modifier un élément du tableau
 
 /*
 ---------  LES LISTES
@@ -266,3 +267,72 @@ listeDeString.Add("deuxième");
 listeDeString.Add("troisième");
 Console.WriteLine(listeDeString[0]);
 listeDeString.Remove("deuxième");
+listeDeString[0] = "nouveau premier"; // on peut modifier un élément de la liste
+
+/*
+---------  LES BOUCLES
+   Les boucles permettent d'exécuter plusieurs fois un bloc d'instructions.
+    Il existe 3 types de boucles : for, while, do while et foreach.
+*/
+
+Console.WriteLine("----- LES BOUCLES -----");
+
+Console.WriteLine("----- BOUCLE FOR -----");
+//exemple de boucle for
+// for (initialisation; condition de sortie; incrémentation)
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}
+Console.WriteLine("----- BOUCLE WHILE -----");
+//exemple de boucle while
+int j = 0;
+// while (condition)
+while (j < 10)
+{
+    Console.WriteLine(j);
+    j++;
+}
+// ATTENTION : while (true) est une boucle infinie
+Console.WriteLine("----- BOUCLE DO WHILE -----");
+//exemple de boucle do while    
+int k = 0;
+do
+{
+    Console.WriteLine(k);
+    k++;
+} while (k < 10);
+Console.WriteLine("----- BOUCLE FOREACH-----");
+//exemple de boucle foreach
+foreach (string element in tableauDeString)
+{
+    Console.WriteLine(element);
+}
+/*
+---------  LA GESTION DES ERREURS
+    Les exceptions sont des erreurs qui peuvent survenir lors de l'exécution d'un programme.
+    Il est possible de gérer ces erreurs avec le mot clé try/catch.
+*/
+
+Console.WriteLine("----- LA GESTION DES ERREURS -----");
+Console.WriteLine("----- TRY/CATCH -----");
+try
+{
+    int nombre1 = 10;
+    int nombre2 = 0;
+    int resultat = nombre1 / nombre2;
+    Console.WriteLine(resultat);
+}
+catch (DivideByZeroException e)
+{
+    Console.WriteLine("Erreur : " + e.Message);
+}
+// Exception est l'erreur la plus générique
+catch (Exception e)
+{
+    Console.WriteLine("Erreur : " + e.Message);
+}
+finally
+{
+    Console.WriteLine("Fin du programme");
+}
