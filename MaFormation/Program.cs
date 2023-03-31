@@ -232,3 +232,37 @@ else
     Les collections sont des structures de données qui permettent de stocker plusieurs valeurs.
     
 */
+
+/*
+---------  LES TABLEAUX
+    Les tableaux sont des structures de données qui permettent de stocker plusieurs valeurs.
+    Les types de données stockés dans un tableau doivent être du même type.
+    Il est compliqué de modifier la taille d'un tableau.
+*/
+
+string[] tableauDeString = new string[3];
+// string est le types d'éléments du tableau
+// [] est le symbole qui indique que c'est un tableau
+// tableauDeString est le nom du tableau
+// new string[3] est l'initialisation du tableau avec 3 éléments
+// 3 est la taille du tableau (le nombre d'éléments qu'il peut contenir en mémoire)
+tableauDeString[0] = "premier";
+tableauDeString[1] = "deuxième";
+tableauDeString[2] = "troisième";
+Console.WriteLine(tableauDeString[0]);
+string[] tableauDeString2 = new string[] { "premier", "deuxième", "troisième" };
+Console.WriteLine(tableauDeString2[0]);
+
+/*
+---------  LES LISTES
+    Les listes sont des structures de données qui permettent de stocker plusieurs valeurs.
+    Les types de données stockés dans une liste peuvent être de différents types.
+    Il est facile de modifier la taille d'une liste avec les méthodes Add() et Remove().
+*/
+
+List<string> listeDeString = new List<string>();
+listeDeString.Add("premier");
+listeDeString.Add("deuxième");
+listeDeString.Add("troisième");
+Console.WriteLine(listeDeString[0]);
+listeDeString.Remove("deuxième");
