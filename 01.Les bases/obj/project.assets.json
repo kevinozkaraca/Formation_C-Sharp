@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projets Github\\Formation C-Sharp\\MaFormation\\MaFormation.csproj",
+      "projectUniqueName": "C:\\Projets Github\\Formation C-Sharp\\01.Les bases\\MaFormation.csproj",
       "projectName": "MaFormation",
-      "projectPath": "C:\\Projets Github\\Formation C-Sharp\\MaFormation\\MaFormation.csproj",
+      "projectPath": "C:\\Projets Github\\Formation C-Sharp\\01.Les bases\\MaFormation.csproj",
       "packagesPath": "C:\\Users\\devek\\.nuget\\packages\\",
-      "outputPath": "C:\\Projets Github\\Formation C-Sharp\\MaFormation\\obj\\",
+      "outputPath": "C:\\Projets Github\\Formation C-Sharp\\01.Les bases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

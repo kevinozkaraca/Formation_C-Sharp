@@ -3,3 +3,13 @@ C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.Generat
 C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.AssemblyInfoInputs.cache
 C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.AssemblyInfo.cs
 C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.csproj.CoreCompileInputs.cache
+C:\Projets Github\Formation C-Sharp\02.La POO\bin\Debug\net7.0\02.La POO.exe
+C:\Projets Github\Formation C-Sharp\02.La POO\bin\Debug\net7.0\02.La POO.deps.json
+C:\Projets Github\Formation C-Sharp\02.La POO\bin\Debug\net7.0\02.La POO.runtimeconfig.json
+C:\Projets Github\Formation C-Sharp\02.La POO\bin\Debug\net7.0\02.La POO.dll
+C:\Projets Github\Formation C-Sharp\02.La POO\bin\Debug\net7.0\02.La POO.pdb
+C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.dll
+C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\refint\02.La POO.dll
+C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.pdb
+C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\02.La POO.genruntimeconfig.cache
+C:\Projets Github\Formation C-Sharp\02.La POO\obj\Debug\net7.0\ref\02.La POO.dll

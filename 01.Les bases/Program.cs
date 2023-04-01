@@ -1,5 +1,4 @@
 ﻿// Formation C#
-
 /*
 ---------  INFORMATION ET PRERECQUIS :
 
@@ -336,3 +335,6 @@ finally
 {
     Console.WriteLine("Fin du programme");
 }
+
+
+
